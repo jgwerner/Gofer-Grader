@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='gofer_grader',
+    name='gofer',
     version='1.0.9',
     license='3-clause BSD',
     author='Vincent Su',
